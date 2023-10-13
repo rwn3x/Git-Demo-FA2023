@@ -1,6 +1,6 @@
 # Git Demo: Rosa Wessel
 
-Acutally learning Git!
+Acutally learning Git!!!!!
 
 Gonna learn some kool stuff!
 
@@ -8,3 +8,7 @@ Gonna learn some kool stuff!
 - git pull
 - git push
 - git clone
+- git push
+
+## Kool Stuff
+- learning branching
