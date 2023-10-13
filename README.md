@@ -9,3 +9,6 @@ Gonna learn some kool stuff!
 - git push
 - git clone
 - git push
+
+## Kool Stuff
+- learning branching
