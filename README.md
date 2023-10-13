@@ -1,4 +1,4 @@
-#Git Demo: Rosa Wessel
+# Git Demo: Rosa Wessel
 
 Acutally learning Git!
 
